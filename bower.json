@@ -18,6 +18,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0",
-    "paper-input": "PolymerElements/paper-input#~1.0.15"
+    "paper-input": "PolymerElements/paper-input#~1.0.15",
+    "paper-toast": "PolymerElements/paper-toast#~1.0.0"
   }
 }
