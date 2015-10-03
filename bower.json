@@ -1,0 +1,22 @@
+{
+  "name": "drakeMTB",
+  "version": "0.0.0",
+  "homepage": "(http://drakemtb.org)",
+  "authors": [
+    "Leo Krashanoff <lkrashanoff2@gmail.com>"
+  ],
+  "description": "Drake MTB Team Website",
+  "main": "",
+  "moduleType": [],
+  "license": "(Apache)",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  }
+}
