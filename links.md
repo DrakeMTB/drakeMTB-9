@@ -17,7 +17,7 @@ permalink: /links/
 
 * <a href="http://groups.google.com/group/drakemtb?hl=en">Join our team EMAIL list, send a request to join</a>
 
-* <a href="{{ site.baseurl }}/resources/DrakeMTB_Scholarship_ Letter">Scholarship Form Download</a>
+* <a href="{{ site.baseurl }}/resources/DrakeMTB_Scholarship_ Letter.pdf">Scholarship Form Download</a>
 
 * <a href="http://google.com">Kit Order Link **COMING SOON!**</a>
 
