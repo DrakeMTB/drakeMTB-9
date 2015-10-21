@@ -1,2 +1,2 @@
 # drakeMTB
-My branch of the repo for local building
+My fork of the repo for local building
