@@ -6,4 +6,4 @@ permalink: /scholarship/
 
 #### Coming Soon!
 
-We are ecited to offer scholarships to deserving riders this year!
+We are excited to offer scholarships to deserving riders this year!
