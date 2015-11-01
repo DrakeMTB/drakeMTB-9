@@ -19,7 +19,7 @@ permalink: /links/
 
 * <a href="{{ site.baseurl }}/resources/DrakeMTB_Scholarship_ Letter.pdf">Scholarship Form Download</a>
 
-* <a href="http://google.com">Kit Order Link **COMING SOON!**</a>
+* <a href="{{ site.baseurl }}/jersey">Kit Order Link **DEADLINE Nov. 25,2015**</a>
 
 * <a href="{{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf">Parent Rider Handbook Download</a>
 
