@@ -31,6 +31,8 @@ permalink: /links/
 
 * <a href="http://drakemtb.org">Race Volunteer Sign up Sheet **COMING SOON! Feb 2016**</a>
 
+* <a href="{{ site.baseurl }}/rosters">Drake MTB Rosters</a>
+
 * <a href="http://cbmv.smugmug.com/ForDrakeMTB/Drake-MTB-Granite-Bay-2015/n-3Jv6h7/">Team Photos **More COMING SOON!**</a>
 
 * <a href="https://www.youtube.com/watch?v=SWuME3JoPTw">Team Videos **More COMING SOON!**</a>
@@ -50,6 +52,3 @@ permalink: /links/
 * <a href="http://www.nationalmtb.org/wp-content/uploads/Equipment-Checklist_Athletes-1.19.11.pdf">NICA Race Day Preparation Information</a>
 
 * <a href="http://www.norcalmtb.org/events/camps/">Mountain Bike Clinic and Camps information</a>
-
-****
-* <a href="{{ site.baseurl }}/2015roster">2015 Drake MTB Roster</a>
