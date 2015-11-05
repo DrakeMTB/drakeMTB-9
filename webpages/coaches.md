@@ -4,7 +4,7 @@ title: Coaches and Staff Bios
 permalink: /coaches/
 ---
 ![Sarah and Otis](../images/otis+sarah.jpg)
-<iframe src="https://docs.google.com/spreadsheets/d/199FFGxQ1bk2o0IvfIiAt8_eK7gsDK_Nwl2WCwTc4nXs/pubhtml?widget=true&amp;headers=false" style="border: 0" width="100%" height="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/199FFGxQ1bk2o0IvfIiAt8_eK7gsDK_Nwl2WCwTc4nXs/pubhtml?widget=true&amp;headers=false" style="border: 0" width="100%" height="inherit" frameborder="0" scrolling="no"></iframe>
 
 ***
 
