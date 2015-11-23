@@ -1,14 +1,16 @@
 ---
 layout: page
-title: 2016 Race Schedule Tentative
+title: 2016 Race Schedule - Tentative
 permalink: /schedule/
 ---
 
 ![finishline pic](../images/ftw.jpg)
 
-* <a href="http://www.norcalmtb.org/">Check here for updates on the Race Schedlue</a>
+NorCal Leauge Homepage <a href="http://www.norcalmtb.org/">Check here for updates on the Race Schedlue</a>
 
-**Race #1** - Fun at the Fort<br>
+****
+
+###Race #1 - Fun at the Fort - East Garrison Race Day 3/6,  Book for 3/5<br>
 March 5, 2016 – Pre-ride at 3:30<br>
 March 6, 2016 - East Garrison (North Conf)<br> 
 Directions: <https://goo.gl/maps/GmiQD><br>
@@ -22,85 +24,79 @@ Below are two options for lodging for our first race:
 Rooms are reserved for 3/5/16
 
 **Option #1**
-Los Laureles  -831-659-2233<br>
-King and 2 double Rooms available.   Rate is $75-$85<br>
-Dogs are welcome, but cost extra.<br>
-Beautiful modest lodge in Carmel Valley. <br>
-It is further from the Race venue than option #2<br>
-Los Laureles - Last day to cancel room is 72 hours before arrival. There are about 12-15 rooms reserved. 
+Los Laureles 831-659-2233<br>
+<http://Loslaureles.com><br>
+313 West Carmel Valley Road, Carmel Valley, CA<br>
+Carmel Valley- Please details in earlier email.<br>
+*I believe the block of rooms is booked, but you can get on a wait list.  Vacancies do come up.*<br>
+$75 -$85 Per night
 
-**Option#2**
-Monterey Bay Lodge -831-372-8057 Fax<br>
-Arrival Date: 03.05.2016   Departure Date:<br> 
-03.06.2016    
-Room Type Number of Units<br>
-One Queen Bed                      14- $123.04<br>
-Two Queen Beds                  11- $156.34 <br>
-Family Room                    2- $200.74 <br>
-Total:                  27 $3,843.78 w/ tax <br>
-Individual Pays Own Guaranteed by Group Leader 
+**Option #2**
+Monterey Bay Lodge – 831-372-8057<br>
+<http://Montereybaylodge.com><br>
+55 Camino Aguajito, Monterey Ca<br>
+Rate of $124-$200 good until 2/05/16<br>
+27 Rooms held on block<br>
+*This hotel is closer to the race venue.  Please see details on earlier email.* 
 
-**Comments/Special Needs:**
-Guests must call in with their own credit card number to guarantee rooms.  All rooms not 
-held by a credit card by 02.05.2015 will be cancelled and put back into the hotels 
-inventory, and the special group rate will no longer be available. You may cancel the 
-entire group no less than 30 days prior to the arrival date.  
-Cut off Date:  02.05.2016
-                        
-**Group Rate included in pricing.**
+****
 
-Team Dinner Info: TBD<br> 
-NorCal Race Flyer TBD <br>
-NorCal Course Map TBD<br> 
-Food Sign up Sheet TBD<br> 
-Volunteer Sign up Sheet TBD<br> 
-
-**Race #2** - Granite Bay Grinder <br>
+###Race #2 - Granite Bay Grinder – Folsom Lake Race day – 3/19,  Book for 3/18<br>
 March 18, 2016 – Early Dismissal at noon followed by 3:30 Pre-ride<br> 
 March 19, 2016 - Folsom Lake (North Conf)<br>
 Directions: <https://goo.gl/maps/5RIlq><br>
-Lodging: Orchid Suites, Roseville (916) 784-2222, $74 for 2-bedroom suite. www.orchidsuitesrosevillehotel.com<br>
-Team Dinner: TBD<br>
-NorCal Race Flyer PDF TBD<br>
-NorCal Course Map TBD<br>
-Food Sign up Sheet TBD<br>
-Volunteer Sign up Sheet TBD<br>
+Lodging:<br>
+35+ rooms booked for Drake MTB Team.  Will add more as needed.<br>
+Dogs welcome - $20 fee per night<br>
+Rooms start at $85.00<br>
+**Book by 2/15**<br>
+<http://www.bestwestern.com/plusorchidhotel><br>
+130 N Sunrise Avenue<br>
+Roseville, California, 95661-2905, US<br>
+Phone: 916/784-2222
 
-**Race #3**- Mid Season Challenge <br>
-April 8, 2016, Early Dismissal dependent on location; 3:30 Pre-Ride<br>
-April 9, 2016 - Laguna Seca/Stafford Lake/Lagoon Valley<br>
-Directions: <https://goo.gl/maps/DJBKh><br>
-Lodging: For Laguna Seca - Los Laureles Lodge – starting at $79 (www.loslaureles.com) 831-659-2233 Make sure to call and tell them you are with Lori Bruckner/Drake Mountain Bike Team and we have a block of rooms.  NOTE – THEY CAN RUN OUT SO BOOK EARLY!<br>
-Team Dinner: Los Laureles Lodge<br> 
-NorCal Race Flyer PDF TBD<br> 
-NorCal Course Map TBD<br> 
-Food Sign up SheetTBD<br>  
-Volunteer Sign up Sheet TBD<br>  
+****
 
-**Race #4**-  Five Springs Farm Round-Up <br> 
+###Race #3 Mid Season Challenge – This may be tentative still? Race Day ?  Not announced,  probably 4/9
+Close to home - No Hotel Needed
+
+****
+
+###Race #4 – Five Springs Farm Round up – Pray for Sun, Race moves to Monterey with heavy Rains. Race Day 4/23 
 **HEAVY RAIN WILL MOVE THIS RACE TO FORT ORD!** 1 week's notice will be given.<br>
 April 22, 2016 – 3:30 Pre-ride. Early dismissal (noon) only if race is moved to Fort Ord<br>
 April 23, 2016 - Petaluma (North Conf)<br>
-Directions: (TBD)<br>
-Lodging – if Race is moved to Fort Ord, Los Laureles Lodge – starting at $79 (www.loslaureles.com) 831-659-2233 Make sure to call and tell them you are with Lori Bruckner/Drake Mountain Bike Team and we have a block of rooms.  NOTE – THEY CAN RUN OUT SO BOOK EARLY!<br>
-Team Dinner: Los Laureles Lodge<br>
-NorCal Race Flyer PDF TBD<br>
-NorCal Course Map TBD<br>
-Food Sign up Sheet TBD<br> 
-Volunteer Sign up Sheet TBD<br> 
+Close to home - No Hotel Needed
 
-**Race #5**- NorCal Conference Championships<br>
-May 13, 2016 – Early Dismissal at noon followed by 3:30 Pre-ride<br>
-May 14, 2016 - Boggs Mountain (North Championships)<br>
-(Boggs was recently destroyed by the Valley Fire. NICA is working on a back up venue, stay tuned.)
+****
 
-May 21-22: **State Championships Dirt Club**, Los Olivos<br>
-May 21 – Pre-ride 1-5pm<br>
-May 22 – Race Day<br>
-Directions: <https://goo.gl/maps/WUSz3><br>
-Lodging<br>
-Team Dinner <br>
-NorCal Race Flyer PDF <br>
-NorCal Course Map <br>
-Food Sign up Sheet<br>
-Volunteer Sign up Sheet <br>
+###Race #5 Conference Champs – Laguna Seca Race Day 5/8, book for 5/7
+35 Rooms Booked (Entire hotel) – Will find 2nd option if needed.<br>
+Los Laureles 831-659-2233<br>
+<http://Loslaureles.com><br>
+313 West Carmel Valley Road, Carmel Valley, CA<br>
+Carmel Valley- Please details in earlier email.<br>
+I believe the block of rooms is booked, but you can get on a wait list.  Vacancies do come up.<br>
+$75 -$85 Per night
+
+###State Champs! – Los Olivos Dirt Club Race Day 5/22,  Book for at least 5/21
+Be sure to check the email list for more info and updates...<br>
+Here are some hotel options in the area it is around Solvang, lots of options book early!<br>
+
+* Svendsgaard’s Danish lodge – Americas Best Value<br>
+Funky , Funky, cute. Pool area. Great location. Should be around $120<br>
+805-688-3277<br>
+
+* Solvang inn and Cottages –  805-688-4702 ($150 per night)
+
+* Holiday Inn Express – 805-688-2018 !Great location!
+
+* The Hamlet Inn – 805-688-4413
+
+ *Above are all good options and anything in Solvang or Los Olivos is close to the race venue. There is a Marriot and some bigger hotels as well.  Usually more expensive.*
+ 
+* Lompoc option – 40 minutes from race.<br>
+Embassy Suites<br>
+1117 North H Street, Lompoc CA<br>
+Currently $115
+
