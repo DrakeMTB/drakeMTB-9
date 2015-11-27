@@ -55,12 +55,6 @@ And Dean Lyons<br>
 5th Street in San Rafael<br>
 Phone# (415)-456-3893
 
-#Team Bike Sponsor
-***
-
-[![sunshine logo](../images/Sunshine-Bikes.jpg)](http://www.sunshinebicycle.com)
-
-[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/)
 
 ***
 #Associate Sponsors
@@ -103,6 +97,13 @@ Phone# (415) 256-1316<br>
 
 82 W Portal Ave, San Francisco, CA 94127<br>
 (415) 242-1565
+
+#Product Service
+***
+
+[![sunshine logo](../images/Sunshine-Bikes.jpg)](http://www.sunshinebicycle.com)
+
+[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/)
 
 ***
 
