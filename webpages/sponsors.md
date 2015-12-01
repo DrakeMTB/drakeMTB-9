@@ -85,6 +85,8 @@ Phone# (415) 256-1316<br>
 ***
 **Dolby Laboratories**
 
+[![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html)
+
 ***
 
 [![logo](../images/NurturingMinds-logo.png)](http://www.nurturingmindsinafrica.org)
