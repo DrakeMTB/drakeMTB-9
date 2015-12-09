@@ -121,4 +121,4 @@ Phone# (415) 256-1316<br>
 
 ***
 **In Memory of Jim Miller**<br>
-(TBD)
+[![logo](../images/jmiller.jpg)](/jmiller)
