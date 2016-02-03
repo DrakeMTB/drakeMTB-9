@@ -35,6 +35,8 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 
 * <a href="{{ site.baseurl }}/committee">Parent Committee Meetings</a>
 
+* <a href="{{ site.baseurl }}/resources/Nutrition_Update_2-2016.pdf">Nutrition and Hydration tips</a>
+
 * <a href="{{ site.baseurl }}/faqs">FAQs</a>
 
 ****

@@ -20,6 +20,8 @@ Due to the size of the team this year, we will need to split hotels, which usual
 Please contact the hotel directly to make your reservation on your credit card number.   We have secured group rates at each. 
 Please be sure and tell them you are with the Drake MTB Team to benefit from the rate offered below. 
 
+[Race Flyer Here](http://www.norcalmtb.org/wp-content/uploads/2016-East-Garrison-Race-Flyer.pdf)
+
 Below are two options for lodging for our first race:
 Rooms are reserved for 3/5/16
 
@@ -45,6 +47,9 @@ Rate of $124-$200 good until 2/05/16<br>
 March 18, 2016 – Early Dismissal at noon followed by 3:30 Pre-ride<br> 
 March 19, 2016 - Folsom Lake (North Conf)<br>
 Directions: <https://goo.gl/maps/5RIlq><br>
+
+[Race Flyer Here](http://www.norcalmtb.org/wp-content/uploads/Granite-Bay-2016-Race-Flyer1.pdf)
+
 Lodging:<br>
 35+ rooms booked for Drake MTB Team.  Will add more as needed.<br>
 Dogs welcome - $20 fee per night<br>
@@ -57,7 +62,11 @@ Phone: 916/784-2222
 
 ****
 
-###Race #3 Mid Season Challenge – This may be tentative still? Race Day ?  Not announced,  probably 4/9
+###Race #3 Mid Season Challenge - Lagoon Valley
+April 8, 2016 Early dismissal followed by 3:30 pre-ride<br>
+April 9, 2016 - Lagoon Valley (North Conf)<br>
+April 10, 2016 - Lagoon Valley (South Conf) *Heavy rain will move this race to Fort Ord! 1 week's notice will be given.<br>
+
 Close to home - No Hotel Needed
 
 ****
@@ -66,6 +75,7 @@ Close to home - No Hotel Needed
 **HEAVY RAIN WILL MOVE THIS RACE TO FORT ORD!** 1 week's notice will be given.<br>
 April 22, 2016 – 3:30 Pre-ride. Early dismissal (noon) only if race is moved to Fort Ord<br>
 April 23, 2016 - Petaluma (North Conf)<br>
+
 Close to home - No Hotel Needed
 
 ****
