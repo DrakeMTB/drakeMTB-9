@@ -4,6 +4,38 @@ title: Race and Travel
 permalink: /races/
 ---
 
+##Race Day Info
+
+* [Up to date race info @ NorCal](http://www.norcalmtb.org/)
+
+* [Where to stay.. Don't forget to book early](https://drive.google.com/file/d/0B9nR_NmSORGdVl9KNTgwcms1U0E/view?usp=sharing)
+
+* [Race Kit](https://drive.google.com/file/d/0B9nR_NmSORGdNU5FTFNxejdia3c/view?usp=sharing)
+
+* [What to wear...](https://drive.google.com/file/d/0B9nR_NmSORGdeWRaMEt3bUVka0E/view?usp=sharing)
+
+
+###Race Day Schedules
+
+###Girls
+
+* [Varsity Girls](https://drive.google.com/file/d/0B9nR_NmSORGdSGJCOEx5U05HQkU/view?usp=sharing)<br>
+* [JV Girls](https://drive.google.com/file/d/0B9nR_NmSORGdUkc1RGhHcUJzaUk/view?usp=sharing)<br>
+* [Sophmore Girls](https://drive.google.com/file/d/0B9nR_NmSORGdQ3QwczF3WElIX2s/view?usp=sharing)<br>
+* [Frosh Girls](https://drive.google.com/file/d/0B9nR_NmSORGdc1lUWUIzOHo3cHc/view?usp=sharing)<br>
+
+###Boys
+
+* [Varsity Boys](https://drive.google.com/file/d/0B9nR_NmSORGdLWN1RENZcjIxb3c/view?usp=sharing)<br>
+* [JV Boys](https://drive.google.com/file/d/0B9nR_NmSORGdZUl1d1V0TjlsZFk/view?usp=sharing)<br>
+* [Sophmore Boys](https://drive.google.com/file/d/0B9nR_NmSORGdeUYxNzA0eDlicVk/view?usp=sharing)<br>
+* [Frosh Boys](https://drive.google.com/file/d/0B9nR_NmSORGdYXJhRWViUHZ1ME0/view?usp=sharing)<br>
+
+* [Pre-Race Food](https://drive.google.com/file/d/0B9nR_NmSORGdTEo3VUJRVTV0R1U/view?usp=sharing)
+
+* [Master PitZone Schedule](https://drive.google.com/file/d/0B9nR_NmSORGdQTNfUFdneTVNd00/view?usp=sharing)
+
+
 ![finishline](../images/uma-win.jpg)
 
 ##General Information
