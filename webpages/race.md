@@ -4,7 +4,7 @@ title: Race and Travel
 permalink: /races/
 ---
 
-##Race Day Info
+## Race Day Info
 
 * [Up to date race info @ NorCal](http://www.norcalmtb.org/)
 
@@ -15,33 +15,33 @@ permalink: /races/
 * [What to wear...](https://drive.google.com/file/d/0B9nR_NmSORGdeWRaMEt3bUVka0E/view?usp=sharing)
 
 
-###Race Day Schedules
+### Race Day Schedules
 
-####Girls
+#### Girls
 
 * [Varsity Girls](https://drive.google.com/file/d/0B9nR_NmSORGdSGJCOEx5U05HQkU/view?usp=sharing)<br>
 * [JV Girls](https://drive.google.com/file/d/0B9nR_NmSORGdUkc1RGhHcUJzaUk/view?usp=sharing)<br>
 * [Sophmore Girls](https://drive.google.com/file/d/0B9nR_NmSORGdQ3QwczF3WElIX2s/view?usp=sharing)<br>
 * [Frosh Girls](https://drive.google.com/file/d/0B9nR_NmSORGdc1lUWUIzOHo3cHc/view?usp=sharing)
 
-####Boys
+#### Boys
 
 * [Varsity Boys](https://drive.google.com/file/d/0B9nR_NmSORGdLWN1RENZcjIxb3c/view?usp=sharing)<br>
 * [JV Boys](https://drive.google.com/file/d/0B9nR_NmSORGdZUl1d1V0TjlsZFk/view?usp=sharing)<br>
 * [Sophmore Boys](https://drive.google.com/file/d/0B9nR_NmSORGdeUYxNzA0eDlicVk/view?usp=sharing)<br>
 * [Frosh Boys](https://drive.google.com/file/d/0B9nR_NmSORGdYXJhRWViUHZ1ME0/view?usp=sharing)
 
-###More Info
+### More Info
 
 * [Pre-Race Food](https://drive.google.com/file/d/0B9nR_NmSORGdTEo3VUJRVTV0R1U/view?usp=sharing)
 
 * [Master PitZone Schedule](https://drive.google.com/file/d/0B9nR_NmSORGdQTNfUFdneTVNd00/view?usp=sharing)
 
-##General Information
+## General Information
 
 ![finishline](../images/uma-win.jpg)
 
-**Drake HS is part of the North Conference** of the NorCal League. Most of our races are scheduled for Saturday which means the students will have permission to leave early from school on Friday **only if** they have completed and submitted the Field Trip (Link to form) forms to Jolie Jacobs, School Liason. If you have any questions about the forms or the schedule, please contact Jolie. 
+**Drake HS is part of the North Conference** of the NorCal League. Most of our races are scheduled for Saturday which means the students will have permission to leave early from school on Friday **only if** they have completed and submitted the Field Trip (Link to form) forms to Jolie Jacobs, School Liason. If you have any questions about the forms or the schedule, please contact Jolie.
 
 **Please do not register for any races.** The Director will register and the team will pay for each rider a week before each race.
 
@@ -59,5 +59,3 @@ Do please remember, breakfast items should be in the Pit Zone by 8:30am at the l
 If you have questions about any of the volunteer positions–like feed zone (most people don’t know much about this one, but it is quite easy)–contact your buddy or any of us long timers. We’re all happy to provide as much advice as you can stand to listen to.
 
 <a href="{{ site.baseurl }}/schedule/">	**Tentative 2016 Race Schedule**.</p></a>
-
-

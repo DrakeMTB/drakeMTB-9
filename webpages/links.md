@@ -6,7 +6,7 @@ permalink: /links/
 
 ![link image](../images/chain.png)
 
-###Get Started with Drake MTB
+### Get Started with Drake MTB
 
 <!--NOTE many of these links are found on the Riders Page-->
 * <a href="http://goo.gl/forms/6QBGiaPkpi">Student Registration Form</a>
@@ -39,7 +39,7 @@ permalink: /links/
 
 ****
 
-###NorCal and NICA Information
+### NorCal and NICA Information
 
 * <a href="https://pitzone.nationalmtb.org/users/sign_in">NorCal League Mountain Bike Race Registration Login</a>
 

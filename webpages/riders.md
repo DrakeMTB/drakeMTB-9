@@ -30,8 +30,8 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 * <a href="{{ site.baseurl }}/eligibility">Eligibility Requirements</a>
 
 * <a href="{{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf">Parent Rider Handbook *</a>
-	
-  *PLEASE READ This document has been developed and improved over many years. It has several years of experience behind it and is an excellent tool to help prepare you for the first season. After that, you probably won’t need to refer to it again. However, during the first year, Parents and Riders will appreciate having all this information at their fingers tips. 
+
+  *PLEASE READ This document has been developed and improved over many years. It has several years of experience behind it and is an excellent tool to help prepare you for the first season. After that, you probably won’t need to refer to it again. However, during the first year, Parents and Riders will appreciate having all this information at their fingers tips.
 
 * <a href="{{ site.baseurl }}/committee">Parent Committee Meetings</a>
 
@@ -41,7 +41,7 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 
 ****
 
-###Lets have some fun
+### Lets have some fun
 
 * <a href="{{ site.baseurl }}/teamrides">General Team Ride Schedule</a>
 
@@ -52,4 +52,3 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 * Team Photos **Coming soon**
 
 * Team Videos **Coming soon**
-
