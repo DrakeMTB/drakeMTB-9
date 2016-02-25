@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Team Kickoff Dinner February 24 @ 6:00 PM
-
-
 ---
 
 
-#####Please join us for the Team Kickoff Dinner
+##### Please join us for the Team Kickoff Dinner
 
 
 The time is here lets all get togeter eat and meet. We welcome all the new riders and parents!
