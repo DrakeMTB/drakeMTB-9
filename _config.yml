@@ -17,11 +17,11 @@ avatar: https://raw.githubusercontent.com/DrakeMTB/drakeMTB/gh-pages/images/drak
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: drakemtbmedia@gmail.com
   facebook: drakemtb
   flickr:
   github:
-  instagram:
+  instagram: drake_mtb
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
@@ -52,8 +52,8 @@ url: http://drakemtb.org
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using

@@ -4,7 +4,7 @@ title: Team Ride Schedule
 permalink: /teamrides/
 ---
 
-###General Schedule – see team <a href="{{ site.baseurl }}/">calendar</a> on home page for details
+### General Schedule – see team <a href="{{ site.baseurl }}/">calendar</a> on home page for details
 
 * Sundays, 9am TEAM RIDE – Starts December
 
@@ -18,7 +18,7 @@ permalink: /teamrides/
 
 ![deer park image](../images/deerpark.jpg)
 
-###Minimum Team Requirements
+### Minimum Team Requirements
 
 * Attend 2-practices/week. Student athletes must text either Head Coach before practice if they will be absent. We take attendance before every practice.
 

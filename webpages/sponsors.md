@@ -6,7 +6,7 @@ permalink: /sponsors/
 
 *Below is a list of the 2015-16 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
-#Primary Sponsors
+# Primary Sponsors
 ***
 [![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com)<br>
 **Drake Team Deal:**<br>
@@ -24,7 +24,7 @@ Throughout the Bay Area*
 
 Phone# (415)-492-2020
 
-#Secondary Sponsors
+# Secondary Sponsors
 ***
 
 [![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)
@@ -57,7 +57,7 @@ Phone# (415)-456-3893
 
 
 ***
-#Associate Sponsors
+# Associate Sponsors
 ***
 
 [![got homes](../images/got-homes.jpg)](http://gothomes.com)
@@ -100,7 +100,7 @@ Phone# (415) 256-1316<br>
 82 W Portal Ave, San Francisco, CA 94127<br>
 (415) 242-1565
 
-#Product Service
+# Product Service
 ***
 
 [![sunshine logo](../images/Sunshine-Bikes.jpg)](http://www.sunshinebicycle.com)
