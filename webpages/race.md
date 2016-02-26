@@ -37,6 +37,8 @@ permalink: /races/
 
 * [Master PitZone Schedule](https://drive.google.com/file/d/0B9nR_NmSORGdQTNfUFdneTVNd00/view?usp=sharing)
 
+* [NEW!! First Race flyer! Info for Fun at the fort!](http://www.norcalmtb.org/wp-content/uploads/Fun-at-the-Fort-2016-2.pdf)
+
 ##General Information
 
 ![finishline](../images/uma-win.jpg)
