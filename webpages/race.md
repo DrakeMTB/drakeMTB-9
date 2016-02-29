@@ -10,9 +10,13 @@ permalink: /races/
 
 * [Where to stay.. Don't forget to book early](https://drive.google.com/file/d/0B9nR_NmSORGdVl9KNTgwcms1U0E/view?usp=sharing)
 
-* [Race Kit](https://drive.google.com/file/d/0B9nR_NmSORGdNU5FTFNxejdia3c/view?usp=sharing)
+* [What to bring (Race Kit contents)](https://drive.google.com/file/d/0B9nR_NmSORGdNU5FTFNxejdia3c/view?usp=sharing)
 
-* [What to wear...](https://drive.google.com/file/d/0B9nR_NmSORGdeWRaMEt3bUVka0E/view?usp=sharing)
+* [What to wear...(think about the weather)](https://drive.google.com/file/d/0B9nR_NmSORGdeWRaMEt3bUVka0E/view?usp=sharing)
+
+* [Volunteer Sign up Sheet](https://docs.google.com/spreadsheets/d/1OX2rBcKwSUF1C-KLGbDfq8BBWvZIgELXNlbN34059j0/edit?usp=sharing)
+
+* [Food Sign up Sheet](https://docs.google.com/spreadsheets/d/1-YPQE3FdGk8nxX6vf8dKdWNAfTIN7IXY4sywyrwZqm4/edit?usp=sharing)
 
 
 ### Race Day Schedules
