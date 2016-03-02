@@ -54,14 +54,14 @@ Joe helps keep the teams gears running smoothly. He also happens to be one of th
 
 ## Team Mechanic
 
-![tonymerz](../images/tony-merz.jpg
+![tonymerz](../images/tony-merz.jpg)
 
 ### Tony Merz
 Tony is a lifelong Fairfaxian who has ridden and raced almost all his life. The Drake High graduate married his Redwood High sweetheart and they are raising two great kids, one of whom is on the Drake MTB team (Noah). He’s a big part of the cycling community as shop manager at Sunshine Bikes in Fairfax (25 years) and also has worked at WTB, White Industries and the original Fisher Mountain Bikes. Tony is proud to wrench for the team racers both at Sunshine and volunteering at races and has enjoyed supporting Drake MTB in their recent seasons!
 
 ## Ride Leader
 
-![rob-reed](../images/rob-reed.jpg
+![rob-reed](../images/rob-reed.jpg)
 
 ### Rob Reed
 
@@ -75,7 +75,7 @@ Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last
 
 Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him.
 ## Co-Director
-![jeff-b](../images/Jeff-Broussard.jpg
+![jeff-b](../images/Jeff-Broussard.jpg)
 
 ### Jeff Broussard
 
