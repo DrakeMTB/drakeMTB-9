@@ -43,8 +43,6 @@ permalink: /races/
 
 * [NEW!! First Race flyer! Info for Fun at the fort!](http://www.norcalmtb.org/wp-content/uploads/Fun-at-the-Fort-2016-2.pdf)
 
-##General Information
-=======
 ## General Information
 
 ![finishline](../images/uma-win.jpg)
