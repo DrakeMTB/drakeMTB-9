@@ -8,13 +8,13 @@ permalink: /races/
 
 * [Up to date race info @ NorCal](http://www.norcalmtb.org/)
 
-* [Where to stay.. Don't forget to book early](https://drive.google.com/file/d/0B9nR_NmSORGdVl9KNTgwcms1U0E/view?usp=sharing)
+* [Where to stay.. Don't forget to book early](https://drive.google.com/file/d/0B9nR_NmSORGdSXMzS25EQ0Rnanc/view?usp=sharing)
 
 * [What to bring (Race Kit contents)](https://drive.google.com/file/d/0B9nR_NmSORGdNU5FTFNxejdia3c/view?usp=sharing)
 
 * [What to wear...(think about the weather)](https://drive.google.com/file/d/0B9nR_NmSORGdeWRaMEt3bUVka0E/view?usp=sharing)
 
-* [Volunteer Sign up Sheet](https://docs.google.com/spreadsheets/d/1OX2rBcKwSUF1C-KLGbDfq8BBWvZIgELXNlbN34059j0/edit?usp=sharing)
+* [Volunteer Sign up Sheet](https://docs.google.com/spreadsheets/d/1OX2rBcKwSUF1C-KLGbDfq8BBWvZIgELXNlbN34059j0/edit#gid=1418028068)
 
 * [Food Sign up Sheet](https://docs.google.com/spreadsheets/d/1-YPQE3FdGk8nxX6vf8dKdWNAfTIN7IXY4sywyrwZqm4/edit?usp=sharing)
 
@@ -23,17 +23,17 @@ permalink: /races/
 
 #### Girls
 
-* [Varsity Girls](https://drive.google.com/file/d/0B9nR_NmSORGdSGJCOEx5U05HQkU/view?usp=sharing)<br>
-* [JV Girls](https://drive.google.com/file/d/0B9nR_NmSORGdUkc1RGhHcUJzaUk/view?usp=sharing)<br>
-* [Sophmore Girls](https://drive.google.com/file/d/0B9nR_NmSORGdQ3QwczF3WElIX2s/view?usp=sharing)<br>
-* [Frosh Girls](https://drive.google.com/file/d/0B9nR_NmSORGdc1lUWUIzOHo3cHc/view?usp=sharing)
+* [Varsity Girls](https://drive.google.com/file/d/0B9nR_NmSORGdUmlPbG1iWkRwaWc/view?usp=sharing)<br>
+* [JV Girls](https://drive.google.com/file/d/0B9nR_NmSORGdeDdnVlpJZTlva1E/view?usp=sharing)<br>
+* [Sophmore Girls](https://drive.google.com/file/d/0B9nR_NmSORGdOUxOSmpBeTZPSkk/view?usp=sharing)<br>
+* [Frosh Girls](https://drive.google.com/file/d/0B9nR_NmSORGdNUNCY2dMWXU0OE0/view?usp=sharing)
 
 #### Boys
 
-* [Varsity Boys](https://drive.google.com/file/d/0B9nR_NmSORGdLWN1RENZcjIxb3c/view?usp=sharing)<br>
-* [JV Boys](https://drive.google.com/file/d/0B9nR_NmSORGdZUl1d1V0TjlsZFk/view?usp=sharing)<br>
-* [Sophmore Boys](https://drive.google.com/file/d/0B9nR_NmSORGdeUYxNzA0eDlicVk/view?usp=sharing)<br>
-* [Frosh Boys](https://drive.google.com/file/d/0B9nR_NmSORGdYXJhRWViUHZ1ME0/view?usp=sharing)
+* [Varsity Boys](https://drive.google.com/file/d/0B9nR_NmSORGdVWV3bDFqRmtnRnM/view?usp=sharing)<br>
+* [JV Boys](https://drive.google.com/file/d/0B9nR_NmSORGdbGRYS2E2R3picDA/view?usp=sharing)<br>
+* [Sophmore Boys](https://drive.google.com/file/d/0B9nR_NmSORGdTG82MDgxN2xTeUU/view?usp=sharing)<br>
+* [Frosh Boys]( https://drive.google.com/file/d/0B9nR_NmSORGdTU9lbEtuNTlFYkE/view?usp=sharing)
 
 ### More Info
 
