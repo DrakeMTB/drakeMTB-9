@@ -9,7 +9,7 @@ title: First Race @ Fort Ord "Fun at the fort"
 A wonderful start to the season Congraduations to all the riders for riding so hard!
 Here are the "Race Reports by our riders"
 
-###Otis Lyons
+### Otis Lyons
 
 Fort Ord- NorCal #1 3/6/16
 
@@ -21,14 +21,14 @@ Squeezing my way up the inside, I wound up in the top 10 by the single track, an
 Logan rounded out the top 3 with a great performance, along with all the other guys. Kyle, Bridger, and Gabe also put in solid top 10 rides, which was definitely something to be stoked about. Congrats to Ronan for taking an awesome sprint victory, and to Uma, Elise, Aliyah, and Matthew for also repping green on the podium. Great job to all of you guys who put in amazing rides!
 That was a great weekend, and I can't wait for the next one!
 
-###Marcos Ramirez
+### Marcos Ramirez
 
 Dang there's so much too say, I don't know where to start but I'll try and keep it short. First off, GREAT job guys, even without our varsity riders we got second place, image the damage we'll do at Granite Bay! Congratulations to everyone who raced today, you all did great, and great job cheering, eveytime I passed a section of drake fans it gave me a burst of energy, especially the saucy boys who were flashing people.
 As for my race, it went pretty well. But started so late was strange because I'm used to racing pretty early. Right off the bat there was a pile up, which actually ended up helping me (thanks Eric). The first lap was crowded with people trying to find there place in the pack, when I got to the puddles throughout the course, I felt like they weren't  so bad, just annoying, once I started my second lap I felt a bit sick to my stomach, as though I haven't eaten enough food, so I decide to take it easy because I didn't want to bonk. Around this lap I started to ride with a Granite bay rider, he was ahead of me for the entire lap, I tried to take the "kill'em with kindness" idea to heart while I rode with him, I would remind him to drink water and stuff like that, when I got to the puddles again j wasn't expecting much so I rode right though, and they must have gotten twice as deep, which got me by surprise, luckily I didn't fall in, like some other people, around my third lap I was still taking it pretty easy, and passed the granite bay rider, and started with a d2 rider, who was also using the "kill'em with kindness" tactic , by the end off my third lap I realized I wasn't very tired so I started putting more effort in, I ended up finishing with a lot of energy, with some regret that I hadn't tried harder, but I still feel like I did well.
 Overall this was probably one of my favorite races because I felt great and I had a lot of fun on the course, probably because of the sick bike I was riding, courtesy of Rob Reed. I'd like to say that I'll do better next race, but I think I'll be making a fashion statement again, so who knows what will happen.
 
 
-###Walden Reed
+### Walden Reed
 
 JV Boys D1
 6th place
@@ -54,7 +54,7 @@ Again, really proud of everyone regardless of where you placed, because just get
 Roll Pirates!
 Walden Reed
 
-##Marya Smith 
+### Marya Smith 
 
 Varsity Girls 8th Place 
 
@@ -69,7 +69,7 @@ Accomplishing my goal of finishing the race and my real personal goal of reachin
 
 
 
-###Ronan Goulden
+### Ronan Goulden
 
 Sophomore D1
 
@@ -93,7 +93,7 @@ The third lap ended up being a dog fight, to say the least. We must have gone ba
 
 Although this was a super exciting race for me, I would also like to congratulate and thank all of the Drake team. First off, thanks to all the parents who volunteered and helped to set up this race and make everything run smooth. Also, thanks to all the coaches for volunteering their time to help us train and become better riders. Congratulations to all the podium finishes; including Otis 1st, Logan 3rd, Elise 3rd, Aliyah 5th, Matthew 3rd, and Uma 4th; and all the other racers who pushed themselves to new heights. Also congrats to Walden with an impressive 6th place finish in JV, along with Marya’s 8th place in Varsity. I can’t wait to see what happens in the next two weeks at Granite Bay.
 
-###River Samet
+### River Samet
 
 15th Frosh Boys
 
@@ -114,7 +114,7 @@ I climb the hill up to the single track again, and realize I am extremely tired.
 Thanks all for such an amazing time!
 
 
-###Margot Enbom
+### Margot Enbom
 
 Fort Ord
 Race #1
@@ -145,7 +145,7 @@ Roll Pirates!
 
 Margot Enbom
 
-###Cindy Goefft
+### Cindy Goefft
 
 Living vicariously on the computer 
 
@@ -163,7 +163,7 @@ Arggh! Roll Pirates!
 
 Cindy
 
-###Lily Willis
+### Lily Willis
 
 Greetings, my fellow howdy-butts!
 
@@ -192,7 +192,7 @@ The rest of the day was fun, but that race was brutal. I'm hopeful it can only g
 Thanks, 
 Lily
 
-###Elise Nicol
+### Elise Nicol
 
 Howdy all! I hope everyone is recovering well from the race and preparing for the next round of rain.
 
@@ -210,7 +210,7 @@ I would have loved to copy and paste the entire team roster because everyone is 
 
 Roll pirates!
 
-###Coach Sarah Starbird 
+### Coach Sarah Starbird 
 
 Race #1 Fun at the Fort
 
@@ -239,7 +239,7 @@ Boys JV race, wow now these riders move up to 4 laps. Walden rode an incredible 
 Liam, Dean and Sam really helped out all race weekend and we look forward to seeing them show Drake colors in the next race and compete in the incredibly fast varsity field.  
 -Sarah Starbird
 
-###Alec Levy-O'Brien
+### Alec Levy-O'Brien
 
 
 It has been three years since I first stepped onto the sandy single track that is know as Fort Ord. I was full of adrenaline, energy, and fear of someone about to start their very first race. That was my freshman year. 
@@ -269,7 +269,7 @@ Alec Levy-O’Brien
 JV Boys
 39th Place
 
-###Josh Penrod
+### Josh Penrod
 
 Howdy all, I know it's a bit late to be writing a race report for Race #1 because i mean it has been a week since last weekend, and Race #2 is just around the corner. Buuuuut i figured, it's never too late to share my first hand experience racing with the mountain Bike Team or racing mountain bikes in general. 
 
@@ -283,7 +283,7 @@ I decide not to take a bottle from the feed zone because i still had half a bott
 
 For my first race i am very proud of 28th, and can't wait to improve before this upcoming race in Granite Bay on Saturday. The experience at Ft. Ord was amazing, thank you to everyone who made the whole thing possible and i just love being on the Drake Mountain Bike Team. Great job to everyone who raced, you all did great. I am so excited for the rest of the season and can't wait for more great memories on the team in the future. 
 
-###Conner Murphy
+### Conner Murphy
 
 I started the weekend looking at the weather report for Sunday, worrying about the race conditions ahead. The car ride was rainy and I was constantly checking the bike on the roof of the car whenever a gust of wind came through, or a sheet of rain. I was really looking forward to racing at Fort Ord again because the course was great last year.
 
@@ -295,7 +295,7 @@ There were so many teammates out on the course, encouraging me to ride harder. I
 
 Thank you to all the coaches and ride leaders for preparing us for this race, and supporting us through the whole process, and to Ed for fueling us up for the races. I hope the new kids on the team realize the support and experience of the coaches and parents, and how all of this makes Drake so unique as a team.
 
-###Ben Enbom
+### Ben Enbom
 
 I am sorry about the lateness of this. After the race I had a busy week working, catching up with friends, spending lots of time with my family, and trying to rest when I could. I am now on an airplane flying back to school, and finally have some time to put into this “spectator report”. Sorry as well if this is long. Hopefully it is useful and interesting for you all. 
 
@@ -321,7 +321,7 @@ Roll Pirates!
 
 -Ben 
 
-###Logan Swett
+### Logan Swett
 
 I heard about the drake mountain biking team a few years back. And ever since then, it had been my goal to be a part of the team. My goal of being on the team was finally fulfilled when we had the halloween ride and breakfast at the mtb museum. I’d never been on a mountain bike team, nor had I raced, but I felt very welcomed even though I knew nobody. It felt especially nice to finally meet people who shared the obsession and passion for mountain biking that I feel.
 
