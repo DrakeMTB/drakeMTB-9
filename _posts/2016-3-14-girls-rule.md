@@ -3,7 +3,7 @@ layout: post
 title: Girls Rule Fort Ord "Fun at the fort"
 ---
 
-###Video our Girls Team!
+### Video our Girls Team!
 
 Thx to Greg Murphy & Charlie Simpson for helping w/ video & pics.  Congrats to Drake Pirate girls & coaches who were so impressive @ Fort Ord.
 
