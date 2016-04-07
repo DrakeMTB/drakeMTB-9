@@ -1,7 +1,9 @@
 _site/
 .sass-cache/
 node_modules/
-components/
 _config.yml
 .travis.yml
 Gemfile
+
+# TO BE UNCOMMENTED WHEN LAYOUT IS FINISHED
+components/
