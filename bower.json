@@ -1,14 +1,14 @@
 {
-  "name": "drakeMTB",
-  "version": "0.0.0",
+  "name": "drakemtb",
+  "version": "0.0.1",
   "homepage": "(http://drakemtb.org)",
   "authors": [
-    "Leo Krashanoff <lkrashanoff2@gmail.com>"
+    "Leonid Krashanoff <lkrashanoff2@gmail.com>",
+    "Peter Werba <pwerba@gmail.com>"
   ],
-  "description": "Drake MTB Team Website",
+  "description": "Drake mountain biking team website",
   "main": "",
   "moduleType": [],
-  "license": "(Apache)",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,8 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.1.0",
-    "paper-input": "PolymerElements/paper-input#~1.0.15",
-    "paper-toast": "PolymerElements/paper-toast#~1.0.0"
-  }
+    "polymer": "Polymer/polymer#^1.1.0"
+  },
+  "private": true
 }
