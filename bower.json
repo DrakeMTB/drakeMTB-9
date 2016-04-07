@@ -12,12 +12,12 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "components"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.1.0"
+    "polymer": "Polymer/polymer#^1.1.0",
+    "paper-card": "PolymerElements/paper-card#^1.0.0",
+    "paper-material": "PolymerElements/paper-material#^1.0.0"
   },
   "private": true
 }
