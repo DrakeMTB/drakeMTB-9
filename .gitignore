@@ -1,7 +1,6 @@
 _site/
 .sass-cache/
 node_modules/
-_config.yml
 .travis.yml
 Gemfile
 
