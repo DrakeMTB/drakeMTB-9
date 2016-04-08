@@ -45,6 +45,10 @@ paper-material {
   padding: 25px;
 }
 
+.norcal {
+  margin-left:35%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -82,7 +86,7 @@ h4 {
 
 p {
   margin: 15px 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: $roboto;
 }
 
 a {
@@ -163,10 +167,6 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-//
-// .masthead
-//
-
 .wrapper-masthead {
   margin-bottom: 50px;
 }
@@ -221,6 +221,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  font-weight: lighter;
 
   @include mobile {
     margin: 3px 0;
