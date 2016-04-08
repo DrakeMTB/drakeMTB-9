@@ -3,6 +3,3 @@ _site/
 node_modules/
 .travis.yml
 Gemfile
-
-# TO BE UNCOMMENTED WHEN LAYOUT IS FINISHED
-components/

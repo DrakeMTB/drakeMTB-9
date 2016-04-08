@@ -1,6 +1,10 @@
 <head>
   <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+  <!--Import elements-->
+  <script src="{{ site.baseurl }}/components/webcomponentsjs/webcomponents-lite.min.js"></script>
+  <link rel="import" href="{{ site.baseurl }}/components/paper-material/paper-material.html">
+
   <meta charset="utf-8" />
   <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -27,8 +31,4 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-
-  <!--Import elements-->
-  <script src="{{ site.baseurl }}/components/webcomponentsjs/webcomponents-lite.min.js"></script>
-  <link rel="import" href="{{ site.baseurl }}/components/paper-material/paper-material.html">
 </head>
