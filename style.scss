@@ -24,6 +24,15 @@ body {
   color: $darkGray;
 }
 
+//POLYMER STYLING RULES
+paper-ripple {
+  color: #dadada;
+}
+
+paper-material {
+  position: relative;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;

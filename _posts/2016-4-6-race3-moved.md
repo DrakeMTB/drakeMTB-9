@@ -9,7 +9,7 @@ Howdy Pirates! Our 3rd race has now been moved to Fort Ord more info here on the
 
 Here is the team schedule.
 
-**Friday **
+**Friday**
 3:30 Pre-ride
 No team dinner is scheduled as it was too late to coordinate
 Go to be early and have sweet dreams:)
