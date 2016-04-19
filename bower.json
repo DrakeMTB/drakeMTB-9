@@ -1,14 +1,11 @@
 {
   "name": "drakemtb",
-  "version": "0.0.1",
   "homepage": "(http://drakemtb.org)",
   "authors": [
     "Leonid Krashanoff <lkrashanoff2@gmail.com>",
     "Peter Werba <pwerba@gmail.com>"
   ],
   "description": "Drake mountain biking team website",
-  "main": "",
-  "moduleType": [],
   "ignore": [
     "**/.*",
     "node_modules",
