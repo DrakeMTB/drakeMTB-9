@@ -305,78 +305,42 @@ footer {
 .section {
   position: relative;
 }
+
 .row {
   margin-bottom: 1em;
 }
+
 .container {
   max-width: 940px;
   margin: 0 auto;
   padding-left: 10px;
   padding-right: 10px;
 }
+
 .container-full {
   max-width: 960px;
   margin: 0 auto;
 }
 
-/* Fluid Grid */
-.col {
-  margin-left: 2%;
-  *margin-left: 1.7%;
+//Grid on front page
+.postgrid {
   float: left;
 }
-.col:first-child {
-  margin-left: 0;
+
+.gridstory {
+  width: 60%;
 }
 
-/* Columns */
-.one {
-  width: 6.5%;
-}
-.two {
-  width: 15%;
-}
-.three {
-  width: 23.5%;
-}
-.four {
-  width: 32%;
-}
-.five {
-  width: 40.5%;
-}
-.six {
-  width: 49.0%;
-}
-.seven {
-  width: 57.5%;
-}
-.eight {
-  width: 66%;
-}
-.nine {
-  width: 74.5%;
-}
-.ten {
-  width: 83%;
-}
-.eleven {
-  width: 91.5%;
-}
-.twelve {
-  width: 100%;
-}
-.quarter {
-  width: 23.5%;
-}
-.half {
-  width: 49.0%;
-}
-.one-third {
-  width: 32%;
+.gridposts {
+  margin-left: 5%;
+  width: 35%;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+.footertext {
+  text-align: center;
+  font-weight: lighter;
+}
+
+//IMPORTS
 @import "highlights";
 @import "svg-icons";
