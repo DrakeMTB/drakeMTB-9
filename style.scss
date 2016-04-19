@@ -1,18 +1,13 @@
 ---
 ---
-//These lines are simply for Jekyll to not mangle the file when processing.
 
-//
-// IMPORTS
-//
+//INITIAL IMPORTS
 
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-/**************/
-/* BASE RULES */
-/**************/
+/*CORE*/
 
 html {
   font-size: 100%;
@@ -33,7 +28,7 @@ paper-material {
   position: relative;
 }
 
-//CUSTOM CLASSES
+/*CUSTOM CLASSES*/
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -48,6 +43,28 @@ paper-material {
 .norcal {
   margin-left:35%;
 }
+
+//Grid on front page
+.postgrid {
+  float: left;
+}
+
+.gridstory {
+  width: 60%;
+}
+
+.gridposts {
+  margin-left: 5%;
+  width: 35%;
+}
+
+.footertext {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 85%;
+}
+
+/*TAG RULES*/
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -255,10 +272,6 @@ nav {
   }
 }
 
-//
-// .main
-//
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -322,26 +335,6 @@ footer {
   margin: 0 auto;
 }
 
-//Grid on front page
-.postgrid {
-  float: left;
-}
-
-.gridstory {
-  width: 60%;
-}
-
-.gridposts {
-  margin-left: 5%;
-  width: 35%;
-}
-
-.footertext {
-  text-align: center;
-  font-weight: lighter;
-  font-size: 85%;
-}
-
-//IMPORTS
+//LAST IMPORTS
 @import "highlights";
 @import "svg-icons";
