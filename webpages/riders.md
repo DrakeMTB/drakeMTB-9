@@ -4,51 +4,52 @@ title: Parents and Riders
 permalink: /riders/
 ---
 
-This **page** is dedicated to **Parents** and **Riders** to help answer **questions** about everything you need to do and know to be on the **Drake MTB team**. If you can’t find the answer here, please reach out to your buddy family/teammate or one of the coaches.
+This **page** is dedicated to **Parents** and **Riders** to help answer **questions** about everything you need to do and know to be on the **Drake MTB team**. If you can't find the answer here, please reach out to your buddy family/teammate or one of the coaches.
 
 ![parents and riders](../images/parents-riders.jpg)
 
 ### Getting Started
-****
 
-* <a href="https://groups.google.com/forum/?hl=en&fromgroups#!forum/drakemtb">Join the DrakeMTB google group</a>
+--------------------------------------------------------------------------------
 
-* <a href="http://goo.gl/forms/6QBGiaPkpi">Register for the Drake MTB Team!</a>
+- [Join the DrakeMTB google group](https://groups.google.com/forum/?hl=en&fromgroups#!forum/drakemtb)
 
-* <a href="{{ site.baseurl }}/jersey">Order your team Jersey</a>
+- [Register for the Drake MTB Team!](http://goo.gl/forms/6QBGiaPkpi)
 
-* <a href="{{ site.baseurl }}/register"> Register with Norcal</a>			
+- [Order your team Jersey]({{ site.baseurl }}/jersey)
 
-* <a href="{{ site.baseurl }}/piggybackr">Piggybackr Fundraiser</a>
+- [Register with Norcal]({{ site.baseurl }}/register)
 
-* <a href="{{ site.baseurl }}/dues">Team Donations and Dues</a>
+- [Piggybackr Fundraiser]({{ site.baseurl }}/piggybackr)
 
-* <a href="{{ site.baseurl }}/resources/DrakeMTB_Scholarship_ Letter.pdf">Scholarship Form</a>
+- [Team Donations and Dues]({{ site.baseurl }}/dues)
 
-* <a href="{{ site.baseurl }}/fieldtrip">Field Trip Form</a>
+- [Scholarship Form]({{ site.baseurl }}/resources/DrakeMTB_Scholarship_ Letter.pdf)
 
-* <a href="{{ site.baseurl }}/eligibility">Eligibility Requirements</a>
+- [Field Trip Form]({{ site.baseurl }}/fieldtrip)
 
-* <a href="{{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf">Parent Rider Handbook *</a>
+- [Eligibility Requirements]({{ site.baseurl }}/eligibility)
 
-  *PLEASE READ This document has been developed and improved over many years. It has several years of experience behind it and is an excellent tool to help prepare you for the first season. After that, you probably won’t need to refer to it again. However, during the first year, Parents and Riders will appreciate having all this information at their fingers tips.
+- [Parent Rider Handbook *]({{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf)
 
-* <a href="{{ site.baseurl }}/committee">Parent Committee Meetings</a>
+  *PLEASE READ This document has been developed and improved over many years. It has several years of experience behind it and is an excellent tool to help prepare you for the first season. After that, you probably won't need to refer to it again. However, during the first year, Parents and Riders will appreciate having all this information at their fingers tips.
 
-* <a href="{{ site.baseurl }}/resources/Nutrition_Update_2-2016.pdf">Nutrition and Hydration tips</a>
+- [Parent Committee Meetings]({{ site.baseurl }}/committee)
 
-* <a href="{{ site.baseurl }}/faqs">FAQs</a>
+- [Nutrition and Hydration tips]({{ site.baseurl }}/resources/Nutrition_Update_2-2016.pdf)
 
-****
+- [FAQs]({{ site.baseurl }}/faqs)
+
+--------------------------------------------------------------------------------
 
 ### Lets have some fun
 
-* <a href="{{ site.baseurl }}/teamrides">General Team Ride Schedule</a>
+- [General Team Ride Schedule]({{ site.baseurl }}/teamrides)
 
-* <a href="http://www.sunshinebicycle.com/">Team Bike Shop – Sunshine Bikes</a>
+- [Team Bike Shop – Sunshine Bikes](http://www.sunshinebicycle.com/)
 
-* Parent Ride Leader Information Coming Soon **COMING SOON**
+- Parent Ride Leader Information Coming Soon **COMING SOON**
 
-* Team Photos **Coming soon**
+- Team Photos **Coming soon**
 
-* Team Videos **Coming soon**
+- Team Videos **Coming soon**
