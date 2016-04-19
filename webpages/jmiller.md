@@ -14,9 +14,9 @@ permalink: /jmiller/
 
 If you would like to make a **donations**, please make the checks...
 
-Payable to: Drake MTB  
+Payable to: Drake MTB
 
-Note in the Memo line: For "Jim Miller Memorial Fund.”
+Note in the Memo line: For "Jim Miller Memorial Fund."
 
 Mail to:<br>
 Drake MTB<br>
@@ -26,6 +26,7 @@ San Anselmo, CA 94960
 
 Thank you for your contribution.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1W5G0LjVPQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1W5G0LjVPQ" frameborder="0" allowfullscreen="">
+</iframe>
 
 ![jimmiller](../images/jmiller.jpg)
