@@ -14,7 +14,7 @@ Photos from this event are here..
 
 ##Now for the Race Reports!
 
-####Tommy
+#### Tommy
 
 This race was a little different in that it was so close, which allowed us to spend the night at home. This offset my initial nervousness; because we hadn't yet actually driven down or preridden, my nerves were delayed. This seemed to have an impact on my wellbeing before the race; my nerves never really built up at all, at least until the five-second countdown. I wasn't priority, partly because I had ridden the previous race as a sort of training ride due to illness. Unfortunately, this meant that, despite reaching the general staging area 20 minutes early, I was staged in the last row. 
 
@@ -28,7 +28,7 @@ I am really happy with how I did, especially after having such a bad start, and 
 
 ****
 
-####Uma
+#### Uma
 
 I was very excited to return to Petaluma this year, it being my favorite and most successful course last year. I had high hopes for this race. Today was also a day that I was reflecting on having torn my ACL because it was the one year anniversary of my fall at Boggs. I was grateful to be able to be racing successfully again, thanks to much support from many people in my life including my loyal friend Jessie who spent the summer sitting on my bed entertaining me and my parents, grandmother, coaches and teammates.
 
@@ -42,7 +42,7 @@ Overall I thought this was a really fun race with a great course! I had a great 
 
 ****
 
-####Dylan
+#### Dylan
 
 Let's begin with the fact that last year, this course was a disappointment. So, I went into the race this year presuming that it would be another dry, bumpy as hell, race situation. To my delight, this was not the case. When I arrived Saturday morning, I immediately got on my bike and went and pre rode the course with Stella and Josh Martinez. What I gathered was, the climb was pretty much the same but wetter as a result of the rain, the arched mesh bridges had been turned into slatted metal ones, the descent was bermed, and there weren't any poppies in bloom. All of these things improved the quality of the course dramatically.
 
@@ -54,7 +54,7 @@ Dyl Fry
 
 ****
 
-####Julian
+#### Julian
 
 Howdy everyone,
 
@@ -76,7 +76,7 @@ Again, great job to everyone who raced yesterday. I hope everyone had a good wee
 
 ****
 
-####Gabriel
+#### Gabriel
 
 Howdy all,
 Coming out of this race I felt so excited with my results, I even decided to write a race report. The weeks prior to this race I had ridden a lot, with a decent amount of road training thrown into the mix as well, so I knew I could improve upon my poor placement at race 3. Arriving at the course Saturday morning I was nervous, and dreading the race (Bridger can witness). It has always been hard for me, waiting so long for our race to start after all the girls and sophmores, seemingly just time to eat, and stress myself out the more I think about it. As usual, the next thing was the struggle to get my bike on a trainer, although I was helped by our fantastic mechanics. I had a short warm up, "will this make me bad???' I headed up to staging, where I was lucky to be in group A, even though I missed a race, although one of the last callups was absent so, I was able to sneak into a row ahead. At the start, as I think back on it, I was being kind of lazy, and not very ambitious, simply following someone ahead of me up the road. I remember a voice saying "Gabe what are you doing, go faster!" as I watched Faris fly by me, from general staging, I realized that I was pretty relaxed and not going very fast so I sped up, right in time for someone to throw their bike across the path and block me. As we reached the dirt, and the bumps began, I looked ahead and saw way to many people ahead of me, so I decided for now, catching up to River was my goal. I was passing people all the way up the hill, and managed to catch Faris who was doing very well, in front of our other strong freshman Kyle and Bridger. I passed Faris at the top, and saw River a couple switchbacks down the trail, I was getting closer. I was excited for the downhill, because I knew that I could catch up to people, and also put a gap between those behind me. That is exactly what happened, by the time that the little uphill singletrack had started I had caught River and a group of Tam kids who I knew could battle it out until the end. This pack of about five stayed together for the rest of the downhill, and I started the second lap right behind them. The second hill was a rough one, my long time friends from Tam had a vigorous pace going, and I knew I had to stay with them. When the climb opened up, I passed four of them, and River stayed right behind me, I knew we could have these Tam kids after us. Unfortunately the fastest Tam kid passed river, and wouldn't let River pass him for the rest of the race. By the time we had got halfway up the hill, our group had caught a lone rider from redwood, who stayed right in front of me for a while. When I saw that the Top was fast approaching I knew that I had to lead the pack into the decent, I knew I could put some distance in between myself and them. I attacked, and led the pack into the downhill, peddling at every opportunity. I didn’t realize until after the burms, that I had made about a 10 second gap from the redwood rider. Thank God. By the singletrack uphill I was fried, giving it every last big of energy that I had, although the redwood rider was able to catch up. The last downhill was my only opportunity to get more distance, if it came down to a sprint at the end I wouldn't have been too confident. So I let the brakes go and nearly wiped out around some turns, but made about a five second gap, just enough to not rush the finish. As I approached the tents there was a really bumpy part, and my bike was making some less than comforting noises, and I thought that I might be the lucky Running finisher. My bike held up, and I finished three seconds ahead of the pack, coming in sixth. This was the hardest race yet, but I am super excited for the next one.
@@ -88,7 +88,7 @@ Gabe Reuter
 ****
 
 
-####River
+#### River
 
 Howdy Pirates,
 
@@ -110,7 +110,7 @@ Roll Pirates
 
 ****
 
-####Marya
+#### Marya
 
 Marya Race Report- A Learning Experience
 
@@ -126,7 +126,7 @@ Congratulations again to everyone! So proud of this team, you all killed it!
 
 ****
 
-####Ronan
+#### Ronan
 
 This race really started about four weeks ago for myself. After the second race, the Drake team started to do Fish Elms as part of our training, intervals that start with this long steep uphill and then loop around only to do it again. I might be the first to say it but I actually really like doing them, mainly because they play to my strength. Being a skinny, light guy, I have struggled to get the speed necessary on downhill sections, causing me to have to pedal while descending just to keep up with many other riders when they are coasting. Like many things in bike racing, however, this balances out on the uphill, as my size allows me to put a lot of power in the ascents relative to my weight.  Beyond increasing my endurance and strength, the Fish Elms have taught me how hard I can go up long hills and have helped to build my confidence.
 
@@ -144,7 +144,7 @@ These past two races have been pretty exciting for Drake and now that we have a 
 
 ****
 
-####Eric
+#### Eric
 
 I have always disliked the Petaluma course and because of that it has always seemed to screw with me mentally. I had a nice dinner on Friday at iron springs and went to bed early because my parents had to wake me up at about 6:00 am (way too early).
  I got up and already had all my stuff packed for the day. I got to the race course early and helped set up deciding not to pre-ride because I had rode it so many times ( we rode it once as a Sunday ride last year and I did something like 5 or so laps). It was nice going up to the first switchback an get some good photos and cheer riders on. I got an early lunch and hung out before getting ready for the race.
