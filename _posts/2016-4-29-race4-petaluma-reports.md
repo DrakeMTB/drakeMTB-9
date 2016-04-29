@@ -12,7 +12,7 @@ Howdy! Here is a video from our own Brennan Healy!
 Photos from this event are here..
 **<https://goo.gl/photos/sNXXcYSKQ4xpxdgo7>    PETALUMA**
 
-##Now for the Race Reports!
+## Now for the Race Reports!
 
 #### Tommy
 
