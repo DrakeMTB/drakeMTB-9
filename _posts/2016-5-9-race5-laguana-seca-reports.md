@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fourth Race Reports A day at the Ranch in Petaluma
+title: Fifth Race Reports NorCal Conferenece Championships Lagua Seca, Monterey
 ---
 
 Drake HS took 1st place Team D1 at Lagua Seca this weekend! Here are the Race Reports.
