@@ -88,3 +88,53 @@ ROLL PIRATES
 Head Coaches Sarah Starbird and Otis Guy 
 
 ****
+
+#### River
+
+Howdy pirates,
+
+This was possibly the most flawless race I've ever had.
+
+I was very excited about racing at Laguna Seca, after asking many returners which race was their favorite and many of them saying that is was this one. After my hardest couple weeks of training of the entire season, the race finally rolled around. We drove up to the course and after a few minutes, I was on my pre-ride. By the end, I could tell it was an extremely short course with plenty of climbing and very fast descending, something I was looking forward to racing on.
+
+As race day came, so did my nerves, almost more than in my other races since I now knew how terrible I was going to feel for the duration of the race, especially on one with this much climbing. I watched the girls race, and suddenly it was my turn. I had a great warm-up, as I knew just how hard to push myself in order to be at my peak by the race. Time flew by, and before I knew it we were off.
+
+In the first couple seconds of racing, I had the ingenious idea of taking it a little slow to begin and save my energy to catch up on the climbs. As soon as we began the descent, I was in something like 20th place, and got stuck behind a group of kids going a lot slower than I would've liked. I passed a few, but it seemed like there was an endless number. Finally, as the climbing began I was towards the front of the pack, with Bridger just a little ways ahead of me. I stayed close behind him all the way through the climbs, until the end of hurl hill when the universe began to hate me.
+
+Right around the feed zone, my chain fell off. Nothing huge, although with all the parents trying to tell me what to do and kids passing me right and left, the stress made it take me a minute or so to get it back on, and suddenly I was right behind the slow descenders once again. I knew I had to get ahead of them before we started our second lap, so I sprinted up to the front of the pack and managed to get back into a decent position. 
+
+I flew through the downhill with no one to slow me down and eventually came upon some sophomores. I tried to pass Blake, but right before I could an extremely impatient D2 freshmen tried to pass him at the exact same time I did. The D2 freshmen passed on a dangerous part off the trail, and Blake had no choice but to swerve to his right so he didn't hit the kid, moving right into me, leaving me lying on the grass beside the trail. I immediately knew this race was going to be trashed. I saw my chain wrapped around my pedal, and felt a throbbing pain in my heel. Blake was fine and went on his way, after graciously offering to help me fix my bike. I quickly managed to get my chain back on, although after riding for a moment the pain in my heel was too much to ride with, so I began to walk my bike along the course, just trying to find someone to help me while dozens of riders passed by. Finally, I reached the top of a hill, and almost as if it was never there, the pain in my heel disappeared.
+
+I began riding again, enraged with my bad luck, but knew that just by finishing I could help the team. I passed many kids, and finally reached the top of hurl hill for my second lap, finding a group of freshmen I could sprint to the end with, because I might as well finish strong.  As we came around the final turn, me and one other rider sprinted it out, with a few others close behind. 
+
+As we neared the finish, a sophomore who had another lap to go tries to pass me, even though there was no room on the trail. Mr. Impatient, though, decided to try to pass me anyway. He ended up hitting my bar, knocking me over sideways with some of the most pain I've ever felt. I got up as fast as I could, and felt a burning pain in my elbow, but most of my attention was kept on my knee. Bloody and gruesome, I wanted to scream out in agony. Limping to the finish as many more kids passed me, I felt awful and could barely move. I finally made it, ending with 28th place.
+
+As I said, possibly the most flawless race I could have. 
+
+A huge congratulations to the entire team for bringing home another NorNorCal victory, and especially to Otis, Logan, Gabe, Kyle, Dylan, Uma, Ronan, Matthew, Calvin, Elise, Stella, and Marya for getting on the podium (wow that's a lot!)
+
+Roll Pirates
+
+River Samet
+
+****
+
+#### Gabe
+
+Howdy all,
+Congratulations to everyone for doing a fantastic job this year, we are the NorCal Champions!! We are going to kill it at states I know it!! It is such a treat for me to be part of this amazing team, and I have all of you to thank. THANK YOU!
+
+Next, I would like to give Alec Levy O'brien a HUGE shoutout for letting me race his bike, which is a lot of fun to ride, and much more race worthy than my antique yeti. I think that this bike helped me a ton this race, both with my overall performance, and just how much fun I was having riding it. Another huge THANK YOU!
+
+Coming into this race, I was dreading what I've heard was the toughest climb in the series, hurl hill. I hadn't pre ridden the course until Sunday morning, and so I had much more time to be stressed about the unknown. Once I had finished my pre ride, I realized that it was a super quick climb, and I would just grind away to the feed zone and then I would be half way already. After my pre ride, I couldn't help myself but ride around talking with everyone, cheering and exploring the venue. After a while I realized that I was wearing my legs down, and I was worried about that , but during the race I honestly didn't feel to bad at all. Anyways at the start, I was finally in call ups, so I told the front group “everyone try not to crash” maybe this helped, but thank god nobody crashed ahead of me, so I was able to get a good line going up the cement road. At the top, where the fire road started I was in 8th and I just decided, what the heck, I'll just pass as many people as I can before the single track. I passed two people, who were both good riders and I was scared they would pass later, but I will get to that. Going up the next cement limb I was sure somebody would pass me, so I just sprinted up it, only to get stuck behind the two best woodcreek riders who were going really slow, and suddenly the entire rest of the freshman were right behind me. Darn. Starting the downhill in 6th was good, although these woodcreek riders did slightly hold me back from keeping up with Logan. After the “technical” section was over, and we had the fast meadow singletrack to go before the climb, the woodcreek kids attacked which I thought was weird on a downhill, and they managed to get a small gap but nothing major, and by the time the climb started I was right behind them once again, with Kyle, and a redwood kid right behind me. I was seriously confused about what these woodcreek kids were doing going so slow up the climb, were they saving it, or had I just gotten better? Whatever it was, I knew Logan and the front pack were long gone.  Was stuck behind them, until the steep part, where Kyle and I passed. By the time I got to the top of the hill, I looked back, and saw Kyle, but behind him nobody was there, like the woodcreek kids had just given up. Well whatever, stay ahead, I'm in fourth! Passing through the the feed zone was the best thing that could have happened, everyone from drake was screaming at the top of their lungs, and it made me dig so much deeper. This was the same with the finish area, everyone was going crazy, THANKS GUYS!! So by the cement climb started again I had a decent gap on Kyle and I was already feeling good about this downhill. By the time I had went through the gate, I was completely of breath, but knew if I keep the effort up I could make more gains. So I pushed forward into the downhill, and proceeding safely, and fast as I could I was able to gain more and not crash. On the uphill I gave it the last of my energy, getting to hurl hill with a big gap behind me, and feeling really good about the race, going through the feed zone again I was super happy, looking back and seeing 5th place far enough back that I wasn't stressed about the final sprint. This race was my personal best, and the one where I had the most fun. I would do this race over and over again if I could, but I can't wait for states.
+
+I wanted to send my regards to Wyatt, and Dylan, wishing up guys the best of luck in healing fast! Also I know River crashed, and had some problems throughout the race, and I have to say this is a huge bummer, because I know how hard he has been working, we ride together, and we decided that we would get podium after at Petaluma we were so close. I know for a fact that he would have had his best race!
+
+Let's kick some butt at states!
+Gabe Reuter
+
+Laguna Seca
+D1 Frosh boys
+4th place
+
+****
