@@ -14,7 +14,7 @@ permalink: /races/
 
 * [What to wear...(think about the weather)](https://drive.google.com/file/d/0B9nR_NmSORGdeWRaMEt3bUVka0E/view?usp=sharing)
 
-* [Volunteer Sign up Sheet](https://docs.google.com/spreadsheets/d/1OX2rBcKwSUF1C-KLGbDfq8BBWvZIgELXNlbN34059j0/edit#gid=1418028068)
+* [Volunteer Sign up Sheet](https://docs.google.com/spreadsheets/d/1OX2rBcKwSUF1C-KLGbDfq8BBWvZIgELXNlbN34059j0/edit#gid=864299778)
 
 * [Food Sign up Sheet](https://docs.google.com/spreadsheets/d/1-YPQE3FdGk8nxX6vf8dKdWNAfTIN7IXY4sywyrwZqm4/edit?usp=sharing)
 
@@ -41,7 +41,7 @@ permalink: /races/
 
 * [Master PitZone Schedule](https://drive.google.com/file/d/0B9nR_NmSORGdQTNfUFdneTVNd00/view?usp=sharing)
 
-* [NEW!! First Race flyer! Info for Fun at the fort!](http://www.norcalmtb.org/wp-content/uploads/Fun-at-the-Fort-2016-2.pdf)
+* [Race flier for States!](http://www.norcalmtb.org/wp-content/uploads/2016/04/2016.States.Flyer_.04.11.16.pdf)
 
 ## General Information
 
