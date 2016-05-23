@@ -64,4 +64,4 @@ Do please remember, breakfast items should be in the Pit Zone by 8:30am at the l
 
 If you have questions about any of the volunteer positions–like feed zone (most people don’t know much about this one, but it is quite easy)–contact your buddy or any of us long timers. We’re all happy to provide as much advice as you can stand to listen to.
 
-<a href="{{ site.baseurl }}/schedule/">	**Tentative 2016 Race Schedule**.</p></a>
+<a href="{{ site.baseurl }}/schedule/">	**Tentative 2016 Race Schedule**.</a>
