@@ -7,7 +7,7 @@ Drake HS took 1st place Team D1 at Lagua Seca this weekend! Here are the Race Re
 
 Howdy! Here is a video from our own Brennan Healy!
 
-<iframe width="854" height="480" src="https://youtu.be/GnPXnqkWIlU" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/GnPXnqkWIlU" frameborder="0" allowfullscreen></iframe>
 
 Photos from this event are here.. **<https://goo.gl/photos/9V2Q2Gzr79mEGjkh9> LAGUNA-SECA**
 **<https://goo.gl/photos/CXcKnWVKaRosEuvY9> MORE Photos!**
@@ -37,6 +37,9 @@ Here are 12 reasons why this team is the best team ever:
 1. The place Drake will get at States!
 
 Thanks OTIS! Awesome!
+
+
+****
 
 #### Wyatt
 
@@ -230,4 +233,7 @@ This is a race I will never forget and can’t thank everyone enough time for al
 Marya- 5th place Varsity Girls
 
 ****
+
+
+
 
