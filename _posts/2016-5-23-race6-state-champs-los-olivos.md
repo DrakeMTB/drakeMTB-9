@@ -46,8 +46,8 @@ Congratulations - you earned it!
 
 Sarah Starbird 
 Otis Guy 
-Head Coaches
-Sir Francis Drake HS Mountain Bike Team
+Head Coaches 
+Sir Francis Drake HS Mountain Bike Team 
 <http://www.Drakemtb.org>
 
 ****
@@ -68,8 +68,8 @@ The lady asked me if i was finishing or DNFing. I managed to say "DNF," as I res
 The support from everyone was amazing. I had a horrible race but everyone was so nice and supportive. This is why the Drake Team is so amazing. Everyone is there to support you no matter how you do in a race and that''s the amazing thing about it. Thank you to all the coaches, ride leaders, parents, riders, Sarah, Otis, and also to Rob Reed. Thank you guys for an amazing season and another State Championship. We all worked hard together and it payed off. 
 Sorry for the long race report and Roll Pirates!
 
-Eric Enbom
-JV
-DNF
+Eric Enbom 
+JV 
+DNF 
 
 ****
